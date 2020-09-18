@@ -72,6 +72,7 @@ const Prospectos = ({prospecto}) => {
                 <div className="item-tabla">Colonia: {prospecto.colonia}</div>
                 <div className="item-tabla">Codigo Postal: {prospecto.codigoPostal}</div>
                 <div className="item-tabla">Teléfono: {prospecto.telefono}</div>
+                <div className="item-tabla">RFC: {prospecto.rfc}</div>
             </div>
 
         </>
